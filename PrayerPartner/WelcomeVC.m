@@ -20,6 +20,7 @@
     // Do any additional setup after loading the view.
     self.borderView.layer.borderColor = [UIColor lightGrayColor].CGColor;
     self.borderView.layer.borderWidth = 1.0;
+    NSLog(@"Complete Project");
     
 }
 
